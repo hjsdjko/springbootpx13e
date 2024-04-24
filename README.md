@@ -2,28 +2,41 @@
 
 [索要源码请点我](http://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzkwMDY3MTY0Nw==&action=getalbum&album_id=3423120253595582465&scene=173&subscene=&sessionid=svr_dbd799d91a1&enterid=1713666527&from_msgid=&from_itemidx=&count=3&nolastread=1#wechat_redirect)
 
-【需要源码和论文：QQ联系 979748385 QQ群 601569450】
+关于源码项目的相关问题可以联系我们交流： 【QQ 979748385 QQ群 601569450】 
 
-推荐使用：谷歌浏览器 
+- **`微信扫一扫 (爱毕设) 获取源码`**
 
-后台地址
-http://localhost:8080/springbootxs5o6/admin/dist/index.html
+![qrcode_for_gh_0f10658cd7ee_430](https://github.com/hjsdjko/onlyzaixianshangcheng/assets/120558513/edfc28fc-d9df-4e81-ac62-d02aa360e379)
 
-管理员  abo 密码 abo
+***************************************************************
 
+系统架构
 
-前台地址：http://localhost:8080/springbootxs5o6/front/index.html
+前端：html | js | css | jquery | vue
 
+后端：springboot | mybatis
 
+环境：jdk1.8+ | mysql | maven
 
-在src\main\resources\application.yml中编辑
-											
-	 url: jdbc:mysql://127.0.0.1:3306/springbootxs5o6?useUnicode=true&characterEncoding=utf-8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
-	    username: root
-	    password: 123456 （数据库密码）
+使用说明
 
-![输入图片说明](2235cffc3606f4ced55f6e6b7f55796.png)
-![输入图片说明](dcc54b7b253d72be176942831ded655.png)
-![输入图片说明](dbc4ab3d312c0811674c76def1197e3.png)
-![输入图片说明](c29e8f59c02939bc3caa2ae73f70171.png)
-![输入图片说明](f52414e37fd0fa12863a4b413a0c2bc.png)
+1、下载源码，导入IDEA
+
+2、创建数据库，执行数据库脚本
+
+3、修改数据库JDBC连接参数
+
+4、在IDEA中运行
+
+5、打开浏览器，参考<说明文档.txt>中的地址
+
+***************************************************************
+![image](https://github.com/hjsdjko/springbootpx13e/assets/120558513/f7853dd0-4a74-4e37-b987-2bae43178262)
+
+![image](https://github.com/hjsdjko/springbootpx13e/assets/120558513/d0a920be-525e-43f3-8119-4c229060dc40)
+
+![image](https://github.com/hjsdjko/springbootpx13e/assets/120558513/52200123-198f-4a22-b43c-b0072a93d36d)
+
+![image](https://github.com/hjsdjko/springbootpx13e/assets/120558513/8776d1dd-1dd0-4cbe-b4be-1d5b760c32c5)
+
+![image](https://github.com/hjsdjko/springbootpx13e/assets/120558513/c428fd3b-6d20-4c33-8d2f-dd538cc807be)
